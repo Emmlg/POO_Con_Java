@@ -20,11 +20,11 @@ Construir un programa que permita dirigir el movimiento de un objeto dentro de u
 [ Checar Ejercicio 02 👆👆](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercico02)                                  
  ![image](https://user-images.githubusercontent.com/105991940/175843412-17c2ea20-cba4-4818-8f7e-bea2c2affd00.png)
 
-// Ejercicio 03
-Construir un programa que dada una serie de vehículos caracterizados por su marca, modelo y precio, imprima las propiedades del vehículo más barato. Para ello,         
-se deberán leer por teclado las características de cada vehículo y crear una clase que represente a cada uno de ellos.                          
-[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                               
-![image](https://user-images.githubusercontent.com/105991940/175849821-29ae3078-b161-4ea1-a42c-f7bbc944f08b.png)
+// Ejercicio 03                                                                                                                                             
+Construir un programa que dada una lista de integrantes de tu familia con las caracteristicas de Nombre,Apellido y Estatura puedas imprimir las caracteristicas de la persona mas alta. Para ello,se deberán leer por teclado las características de cada persona y crear una clase que represente a cada uno de ellos.                          
+[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                             
+![image](https://user-images.githubusercontent.com/105991940/175851039-a2b4fd08-9bdf-402d-ad2d-83702c1a3751.png)
+
 
  
  
