@@ -16,7 +16,9 @@ construir un programa que calcule el area y el perimetro de un cuadrilatero dada
  checar carpeta 01 👆
  
  // Ejercicio 02
- 
+ Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y actualice su posicion dentro del mismo.Los movimientos posibles son Arriba,Abajo,izquirda y Derecha.Tras cada movimiento el programa mostrara la nueva direccion elegida y las coordenadas de situasiones del objeto dentro del tablero
+ ![image](https://user-images.githubusercontent.com/105991940/175843098-9d35c36d-73b5-431f-a388-b126db3f0998.png)
+
  
  
  
