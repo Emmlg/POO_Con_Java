@@ -22,8 +22,8 @@ Construir un programa que permita dirigir el movimiento de un objeto dentro de u
 
 // Ejercicio 03                                                                                                                                             
 Construir un programa que dada una lista de integrantes de tu familia con las caracteristicas de Nombre,Apellido y Estatura puedas imprimir las caracteristicas de la persona mas alta. Para ello,se deberán leer por teclado las características de cada persona y crear una clase que represente a cada uno de ellos.                          
-[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                             
-![image](https://user-images.githubusercontent.com/105991940/175851039-a2b4fd08-9bdf-402d-ad2d-83702c1a3751.png)
+[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                                                          
+![image](https://user-images.githubusercontent.com/105991940/175964492-78e6d91e-74c1-4b8a-9e5e-aa871270171f.png)
 
 
  
