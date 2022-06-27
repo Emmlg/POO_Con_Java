@@ -10,14 +10,18 @@ la cual es una de los principales paradigmas de desarrollo de software en la act
  # ----   ----- Ejercicios ----- -----      
  
  // Ejercicio 01
-construir un programa que calcule el area y el perimetro de un cuadrilatero dada la longitud de sus lados.Los valores de la longitud deberan introducirse por linea de    ordenes.si es un cuadrado,solo se proporcionará la longitud de uno de los lados al constructor.            
+construir un programa que calcule el area y el perimetro de un cuadrilatero dada la longitud de sus lados.Los valores de la longitud deberan introducirse por linea de  ordenes.si es un cuadrado,solo se proporcionará la longitud de uno de los lados al constructor.                                     
+ [checar carpeta 01 👆](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercico01)                                     
  ![image](https://user-images.githubusercontent.com/105991940/175837411-60fe31e2-05cd-47bd-9b4c-8a16e29efd01.png)
 
- checar carpeta 01 👆
+
  
- // Ejercicio 02
- Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y actualice su posicion dentro del mismo.Los movimientos posibles son Arriba,Abajo,izquirda y Derecha.Tras cada movimiento el programa mostrara la nueva direccion elegida y las coordenadas de situasiones del objeto dentro del tablero
- ![image](https://user-images.githubusercontent.com/105991940/175843098-9d35c36d-73b5-431f-a388-b126db3f0998.png)
+ // Ejercicio 02                                                        
+ Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y actualice su posicion dentro del mismo.Los movimientos posibles son Arriba,Abajo,izquirda y Derecha.Tras cada movimiento el programa mostrara la nueva direccion elegida y las coordenadas de situasiones del objeto dentro del tablero  
+[Checar Ejercicio 02 👆👆](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercico02)                                  
+ ![image](https://user-images.githubusercontent.com/105991940/175843412-17c2ea20-cba4-4818-8f7e-bea2c2affd00.png)
+
+
 
  
  
