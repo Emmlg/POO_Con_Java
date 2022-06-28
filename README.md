@@ -25,6 +25,45 @@ Construir un programa que dada una lista de integrantes de tu familia con las ca
 [ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                                                          
 ![image](https://user-images.githubusercontent.com/105991940/175964492-78e6d91e-74c1-4b8a-9e5e-aa871270171f.png)
 
+- **Ejercicio 04**                                                      
+Construir un programa para una competencia de atletismo, el programa debe gestionar una serie de atletas caracterizados                         
+por su número de atleta, nombre y tiempo de carrera, al final el programa debe mostrar los datos del atleta ganador de la carrera.              
+[ Checar Ejercicio 04 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio04)                               
+![image](https://user-images.githubusercontent.com/105991940/176077747-60044622-a694-4456-99df-b309187f66c5.png)
+
+- **Ejercicio 05**
+
+[ Checar Ejercicio 05 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio05)
+
+- **Ejercicio 06**
+
+[ Checar Ejercicio 06 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio06)
+
+
+- **Ejercicio 07**
+
+[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)
+
+
+
+- **Ejercicio 08**
+
+[ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)
+
+
+
+
+- **Ejercicio 09**
+
+[ Checar Ejercicio 09 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio09)
+
+
+
+- **Ejercicio 10**
+
+[ Checar Ejercicio 10 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio10)
+
+
 
  
  
