@@ -17,7 +17,7 @@ construir un programa que calcule el area y el perimetro de un cuadrilatero dada
 
 - **Ejercicio 02**                                                        
 Construir un programa que permita dirigir el movimiento de un objeto dentro de un tablero y actualice su posicion dentro del mismo.Los movimientos posibles son Arriba,Abajo,izquirda y Derecha.Tras cada movimiento el programa mostrara la nueva direccion elegida y las coordenadas de situasiones del objeto dentro del tablero  
-[ Checar Ejercicio 02 👆👆](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercico02)                                  
+[ Checar Ejercicio 02 👆👆](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio02)                                  
  ![image](https://user-images.githubusercontent.com/105991940/175843412-17c2ea20-cba4-4818-8f7e-bea2c2affd00.png)
 
 -  **Ejercicio 03**                                                                                                                                            
