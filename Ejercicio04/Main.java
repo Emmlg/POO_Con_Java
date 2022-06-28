@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author lopez
+ * @author Emmanuel lopez 27/junio/2022
  */
 public class Main {
     
