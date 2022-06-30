@@ -31,9 +31,13 @@ por su número de atleta, nombre y tiempo de carrera, al final el programa debe 
 [ Checar Ejercicio 04 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio04)                               
 ![image](https://user-images.githubusercontent.com/105991940/176077747-60044622-a694-4456-99df-b309187f66c5.png)
 
-- **Ejercicio 05**
-
-[ Checar Ejercicio 05 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio05)
+- **Ejercicio 05**                              
+Diseñar un programa para trabajar con triángulos isósceles.                        
+Para ello defina los atributos necesarios que se requieren, proporcione métodos de consulta,                            
+un método constructor e implemente métodos para calcular el perímetro y el área de un triángulo,                                    
+además implementar un método que a partir de un arreglo de triángulos devuelva el área del triángulo de mayor superficie.                                   
+![image](https://user-images.githubusercontent.com/105991940/176590670-1e4681a9-f67f-48b9-a94e-54537aa8422a.png)
+[ Checar Ejercicio 05 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio05)                               
 
 - **Ejercicio 06**
 
