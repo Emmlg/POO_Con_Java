@@ -45,7 +45,7 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 2. Multiplicar 2 números complejos
 3. Comparar 2 números complejos (iguales o no)
 4. Multiplicar un número complejos por un entero                                    
-![image](https://user-images.githubusercontent.com/105991940/176819779-72cf3a12-eea3-4e79-8429-1b64af6ef1ec.png)                                
+![image](https://user-images.githubusercontent.com/105991940/177024460-22f65817-307b-471e-baa9-2bd8630431d9.png)                                                      
 [ Checar Ejercicio 06 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio06)                               
 
 
