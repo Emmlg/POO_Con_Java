@@ -3,11 +3,11 @@ aplicación de conceptos de temas básicos de Poo.
             
 Las clases en Java (Java Class) son plantillas para la creación de objetos. Como tal, la clase forma la base para la programación orientada a objetos en Java, 
 la cual es una de los principales paradigmas de desarrollo de software en la actualidad.                                                    
------   ---   ¿Qué es un objeto? ----- ---- --                                                                                
+                                    -----   ---   ¿Qué es un objeto? ----- ---- --                                                                                     
  Un objeto en Java no es ni más ni menos que lo mismo que un objeto en el mundo real. Los objetos corresponden a cosas que se encuentran en el mundo real.
  Por ejemplo, un sistema de compra en línea podría tener objetos como: carrito de compras, cliente y producto
  
- #  ----   ----- Ejercicios ----- -----      
+ #  _ _ _  __ _  _ _ _  _ _ _      Ejercicios básicos                     
  
  - **Ejercicio 01**                                                                                                                                           
 construir un programa que calcule el area y el perimetro de un cuadrilatero dada la longitud de sus lados.Los valores de la longitud deberan introducirse por linea de  ordenes.si es un cuadrado,solo se proporcionará la longitud de uno de los lados al constructor.                                     
@@ -48,6 +48,7 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 ![image](https://user-images.githubusercontent.com/105991940/177024460-22f65817-307b-471e-baa9-2bd8630431d9.png)                                                      
 [ Checar Ejercicio 06 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio06)                               
 
+#  _ _ _ _ _ _ _ __ _ _  Ejercicios de Herencia                          
 
 - **Ejercicio 07**
 
