@@ -54,11 +54,13 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 Herencia simple                                                                                                
 ![image](https://user-images.githubusercontent.com/105991940/177071322-c0089661-4da4-48c8-b5dd-8b695ec28d0e.png)        
 
-[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)       
+[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)                               
 
+- **Ejercicio 08**                                                      
+Sobre Escritura de Miembro                                                                                                        
+es cuando tenemos diferentes métodos en diferentes clases.                                
+![image](https://user-images.githubusercontent.com/105991940/178116543-59cadcd5-fd6e-4ab6-afeb-5d415921c5e5.png)                    
 
-
-- **Ejercicio 08**
 
 [ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)
 
