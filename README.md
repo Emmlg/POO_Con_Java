@@ -11,7 +11,8 @@ la cual es una de los principales paradigmas de desarrollo de software en la act
  
  - **Ejercicio 01**                                                                                                                                           
 construir un programa que calcule el area y el perimetro de un cuadrilatero dada la longitud de sus lados.Los valores de la longitud deberan introducirse por linea de  ordenes.si es un cuadrado,solo se proporcionará la longitud de uno de los lados al constructor.                                     
- [ checar carpeta 01 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio01)                                     
+
+[ checar carpeta 01 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio01)                                     
  ![image](https://user-images.githubusercontent.com/105991940/175837411-60fe31e2-05cd-47bd-9b4c-8a16e29efd01.png)
 
 
@@ -22,12 +23,13 @@ Construir un programa que permita dirigir el movimiento de un objeto dentro de u
 
 -  **Ejercicio 03**                                                                                                                                            
 Construir un programa que dada una lista de integrantes de tu familia con las caracteristicas de Nombre,Apellido y Estatura puedas imprimir las caracteristicas de la persona mas alta. Para ello,se deberán leer por teclado las características de cada persona y crear una clase que represente a cada uno de ellos.                          
-[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                                                          
-![image](https://user-images.githubusercontent.com/105991940/175964492-78e6d91e-74c1-4b8a-9e5e-aa871270171f.png)
+[ Checar Ejercicio 03 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio03)                                                                                                          
+![image](https://user-images.githubusercontent.com/105991940/175964492-78e6d91e-74c1-4b8a-9e5e-aa871270171f.png)                    
 
 - **Ejercicio 04**                                                      
 Construir un programa para una competencia de atletismo, el programa debe gestionar una serie de atletas caracterizados                         
 por su número de atleta, nombre y tiempo de carrera, al final el programa debe mostrar los datos del atleta ganador de la carrera.              
+
 [ Checar Ejercicio 04 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio04)                               
 ![image](https://user-images.githubusercontent.com/105991940/176077747-60044622-a694-4456-99df-b309187f66c5.png)
 
@@ -36,6 +38,7 @@ Diseñar un programa para trabajar con triángulos isósceles.
 Para ello defina los atributos necesarios que se requieren, proporcione métodos de consulta,                            
 un método constructor e implemente métodos para calcular el perímetro y el área de un triángulo,                                    
 además implementar un método que a partir de un arreglo de triángulos devuelva el área del triángulo de mayor superficie.                                   
+
 ![image](https://user-images.githubusercontent.com/105991940/176590670-1e4681a9-f67f-48b9-a94e-54537aa8422a.png)
 [ Checar Ejercicio 05 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio05)                               
 
@@ -45,6 +48,7 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 2. Multiplicar 2 números complejos
 3. Comparar 2 números complejos (iguales o no)
 4. Multiplicar un número complejos por un entero                                    
+
 ![image](https://user-images.githubusercontent.com/105991940/177024460-22f65817-307b-471e-baa9-2bd8630431d9.png)                                                      
 [ Checar Ejercicio 06 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio06)                               
 
@@ -52,36 +56,92 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 
 - **Ejercicio 07**                                          
 Herencia simple                                                                                                
+
+[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)   
 ![image](https://user-images.githubusercontent.com/105991940/177071322-c0089661-4da4-48c8-b5dd-8b695ec28d0e.png)                    
-[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)                                                              
+                                                           
 
 - **Ejercicio 08**                                                                               
 Sobre Escritura de Miembro                                                                                                                              
 es cuando tenemos diferentes métodos en diferentes clases.                                                      
+
+[ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)  
 ![image](https://user-images.githubusercontent.com/105991940/178116543-59cadcd5-fd6e-4ab6-afeb-5d415921c5e5.png)                    
-[ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)                               
+                             
 
 - **Ejercicio 09**                                          
 Clases y métodos abstractos                                             
 . se utiliza sólo como super clases.                                                
 . no se pueden instanciar objetos.                                                  
 . sirve para proporcionar una super clase apropiada a partir de la cual heredan otras clases.  
+
+[ Checar Ejercicio 09 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio09)                               
 ![image](https://user-images.githubusercontent.com/105991940/178119502-3b720373-9536-43c6-9dad-43217215909e.png)                                
-[ Checar Ejercicio 09 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio09)                                           
+                                          
 
-- **Ejercicio 10**
+- **Ejercicio 10**                              
+Polimorfismo                                                                                
+En una relación de tipo herencia, un objeto de la superclase puede almacenar un objeto de cualquiera de sus subclases.                          
+Esto significa que la clase padre o superclase es compatible con los tipos que derivan de ella. Pero no al revés.      
 
-[ Checar Ejercicio 10 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio10)
+[ Checar Ejercicio 10 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio10)                               
+![image](https://user-images.githubusercontent.com/105991940/178123439-2652a7f4-319b-4f2a-b242-c19ce6900f7d.png)                                                    
 
 
 
+- **Ejercicio 11**
+
+[ Checar Ejercicio 11 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio11)
+
+
+- **Ejercicio 12**
+
+[ Checar Ejercicio 12 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio12)
+
+ 
+ - **Ejercicio 13**
+
+[ Checar Ejercicio 13 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio13)
  
  
  
+ - **Ejercicio 14**
+
+[ Checar Ejercicio 14 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio14)
  
  
- 
- 
+
+- **Ejercicio 15**
+
+[ Checar Ejercicio 15 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio15)
+
+
+
+
+- **Ejercicio 16**
+
+[ Checar Ejercicio 16 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio16)
+
+
+
+- **Ejercicio 17**
+
+[ Checar Ejercicio 17 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
