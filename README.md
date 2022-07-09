@@ -52,26 +52,22 @@ Construir un programa para trabajar con 2 números complejos, implemente el sigu
 
 - **Ejercicio 07**                                          
 Herencia simple                                                                                                
-![image](https://user-images.githubusercontent.com/105991940/177071322-c0089661-4da4-48c8-b5dd-8b695ec28d0e.png)        
+![image](https://user-images.githubusercontent.com/105991940/177071322-c0089661-4da4-48c8-b5dd-8b695ec28d0e.png)                    
+[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)                                                              
 
-[ Checar Ejercicio 07 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio07)                               
-
-- **Ejercicio 08**                                                      
-Sobre Escritura de Miembro                                                                                                        
-es cuando tenemos diferentes métodos en diferentes clases.                                
+- **Ejercicio 08**                                                                               
+Sobre Escritura de Miembro                                                                                                                              
+es cuando tenemos diferentes métodos en diferentes clases.                                                      
 ![image](https://user-images.githubusercontent.com/105991940/178116543-59cadcd5-fd6e-4ab6-afeb-5d415921c5e5.png)                    
+[ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)                               
 
-
-[ Checar Ejercicio 08 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio08)
-
-
-
-
-- **Ejercicio 09**
-
-[ Checar Ejercicio 09 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio09)
-
-
+- **Ejercicio 09**                                          
+Clases y métodos abstractos                                             
+. se utiliza sólo como super clases.                                                
+. no se pueden instanciar objetos.                                                  
+. sirve para proporcionar una super clase apropiada a partir de la cual heredan otras clases.  
+![image](https://user-images.githubusercontent.com/105991940/178119502-3b720373-9536-43c6-9dad-43217215909e.png)                                
+[ Checar Ejercicio 09 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio09)                                           
 
 - **Ejercicio 10**
 
