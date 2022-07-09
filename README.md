@@ -85,7 +85,7 @@ En una relación de tipo herencia, un objeto de la superclase puede almacenar un
 Esto significa que la clase padre o superclase es compatible con los tipos que derivan de ella. Pero no al revés.      
 
 [ Checar Ejercicio 10 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio10)                               
-![image](https://user-images.githubusercontent.com/105991940/178123439-2652a7f4-319b-4f2a-b242-c19ce6900f7d.png)                                                    
+![image](https://user-images.githubusercontent.com/105991940/178124320-17e60ea5-54cb-4c49-a5d9-e4c95e0d5892.png)                                                                        
 
 
 
