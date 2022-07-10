@@ -89,9 +89,19 @@ Esto significa que la clase padre o superclase es compatible con los tipos que d
 
 
 
-- **Ejercicio 11**
-
+- **Ejercicio 11**                                                                  
+Aplicacion de ....                  
+. clases Abstractas                             
+. Polimorfismo                                  
+. Herencia                                      
+ Hacer un programa para calcular el área de Polígonos (Triángulos y Rectángulos)                                         
+el programa debe ser capaz de almacenar en un arreglo N triángulos y rectángulos,                                       
+y al final mostrar el área y los datos de cada uno. Para ello se tendrá lo siguiente:                                   
+    - Una super clase llamada Polígono.                                 
+    - Una sub clase llamada Rectángulo.                                 
+    - Una sub clase llamada Triángulo.                                  
 [ Checar Ejercicio 11 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio11)
+![image](https://user-images.githubusercontent.com/105991940/178130259-11179a97-7cf8-4d1c-9f91-b0e89a183c4d.png)
 
 
 - **Ejercicio 12**
