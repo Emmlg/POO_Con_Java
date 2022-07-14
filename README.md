@@ -104,39 +104,7 @@ y al final mostrar el área y los datos de cada uno. Para ello se tendrá lo sig
 ![image](https://user-images.githubusercontent.com/105991940/178130259-11179a97-7cf8-4d1c-9f91-b0e89a183c4d.png)
 
 
-- **Ejercicio 12**
 
-[ Checar Ejercicio 12 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio12)
-
- 
- - **Ejercicio 13**
-
-[ Checar Ejercicio 13 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio13)
- 
- 
- 
- - **Ejercicio 14**
-
-[ Checar Ejercicio 14 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio14)
- 
- 
-
-- **Ejercicio 15**
-
-[ Checar Ejercicio 15 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio15)
-
-
-
-
-- **Ejercicio 16**
-
-[ Checar Ejercicio 16 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio16)
-
-
-
-- **Ejercicio 17**
-
-[ Checar Ejercicio 17 👆👆 ](https://github.com/Emmlg/POO_Con_Java/tree/main/Ejercicio17)
 
 
 
